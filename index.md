@@ -36,7 +36,7 @@ locations:
 -->
 
 <p>
-  El curso está pensado para cualquier persona que estéinteresada 
+  El curso está pensado para cualquier persona que esté interesada 
   en mejorar sus habilidades como docente. En particular este curso
   está orientado a personas que quieran convertirse en instructores de 
   <a href="{{ site.swc_site }}">Software Carpentry</a>,
@@ -44,6 +44,9 @@ locations:
   dictar talleres y contribuir a los materiales de The Carpentries. 
   Para participar en este curso no es necesario que estés dando clases actualmente 
   pero si que te interese hacerlo y quieras mejorar tus habilidades como docente.
+  
+  El curso se dará en español pero muchos de los materiales están en inglés. Haremos todo
+  lo posible para que quienes no manejen inglés puedan participar de la misma manera.
 </p>
 
 <p>
@@ -76,7 +79,7 @@ locations:
   can use http://itouchmap.com/latlong.html to find the lat/long of an
   address.
   -->
-<h3 id="where">Where</h3>
+<h3 id="where">Donde</h3>
 
 {% assign inperson = "false" %}
 {% for loc in page.locations %}
@@ -121,14 +124,9 @@ attempt to provide them.
 
 {% endif %}
 
-<h3>Requirements</h3>
+<h3>Requisitos</h3>
 
-Participants should bring a laptop that is Internet connected and has a
-functioning browser. If you have it, a device for recording audio and video
-(mobile phones and laptops are OK) is useful as throughout the two days, we
-are going to record one another teaching in pairs or threes. It does not have
-to be high-quality, but it should be good enough that you can understand what
-someone is saying.
+Para participar, por favor conectate desde una computadora con micrófono y cámara (opcional).
 
 Luego del curso, deberás realizar tres ejercicios para 
 convertirte en intructor o intructora de Carpentries. 
@@ -137,7 +135,7 @@ Podés encontrar más detalles en la página de
 Si tenés alguna consulta sobre el curso, los materiales o cualquier otra cosa por favor escribinos.
 
 
-<h3>Code of Conduct</h3>
+<h3>Código de Conducta</h3>
 
 Las y los participantes deberán aceptar y seguir el <a href="{{
 site.swc_site }}/conduct/">Código de Conducta</a> de The Carpentries.
@@ -169,7 +167,7 @@ for more information.
 <h2 id="preparation" name="preparation">Preparación</h2>
 
 <p>
-  Si tenés la posibilidad leé los siguientes materiales antes del taller:
+  Si tenés la posibilidad leé los siguientes materiales antes del taller (en inglés):
 </p>
 <ol>
   <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
@@ -275,7 +273,7 @@ for more information.
 
 {% endif %}
 
-<h2 id="pre_workshop_survey">Surveys</h2>
+<h2 id="pre_workshop_survey">Encuestas</h2>
 
 <p>
   Antes del curso, por favor completá <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">la encuesta pre-curso</a>.
