@@ -8,7 +8,6 @@ humantime: "14:00 - 18:00"    # human-readable times for the workshop (e.g., "9:
 startdate: 2020-08-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-08-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Laura Acion", "Paola Corrales", "Nicolás Palopoli"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["paobcorrales@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad: https://pad.carpentries.org/2020-08-11-online            # optional: URL for the workshop Etherpad if there is one
 locations:
@@ -236,12 +235,12 @@ for more information.
    <div class="col-md-6">
     <h3>Día 4 - Martes 25 de agosto</h3>
     <table class="table table-striped">
-      <tr> <td>13:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
-      <tr> <td>14:10</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>15:15</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
-      <tr> <td>16:00</td> <td>Afternoon Wrap-Up </td> </tr>
-      <tr> <td>16:45</td> <td>Finish </td> </tr>
+      <tr> <td>14:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
+      <tr> <td>15:10</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>16:15</td> <td>Afternoon Coffee </td> </tr>
+      <tr> <td>16:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
+      <tr> <td>17:00</td> <td>Afternoon Wrap-Up </td> </tr>
+      <tr> <td>17:45</td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
