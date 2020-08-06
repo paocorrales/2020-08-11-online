@@ -203,20 +203,22 @@ for more information.
     <h3>Día 1 - Martes 11 de agosto</h3>
     <table class="table table-striped">
       <tr> <td>14:00</td> <td>Welcome </td> </tr>
-      <tr> <td>14:15</td> <td>How Learning Works: The Importance of Practice </td> </tr>
-      <tr> <td>15:20</td> <td>How Learning Works: Expertise and Instruction </td> </tr>
-      <tr> <td>16:10</td> <td>Break </td> </tr>
-      <tr> <td>16:25</td> <td>How Learning Works: Working Memory and Cognitive Load </td> </tr>
-      <tr> <td>17:05</td> <td>Finish </td> </tr>
+      <tr> <td>14:15</td> <td>Building Skill With Practice </td> </tr>
+      <tr> <td>15:20</td> <td>Break </td> </tr>
+      <tr> <td>15:30</td> <td>Expertise and Instruction </td> </tr>
+      <tr> <td>16:20</td> <td>Break </td> </tr>
+      <tr> <td>16:30</td> <td>Memory and Cognitive Load </td> </tr>
+      <tr> <td>17:15</td> <td>Building Skill With Feedback </td> </tr>
+      <tr> <td>17:30</td> <td>Finish </td> </tr>
     </table>
   </div>
     <div class="col-md-6">
     <h3>Día 2 - Jueves 13 de agosto</h3>
     <table class="table table-striped">
-      <tr> <td>14:00</td> <td>Building Teaching Skill: Getting Feedback </td> </tr>
-      <tr> <td>14:50</td> <td>Creating a Positive Learning Environment: Motivation and Demotivation </td> </tr>
-      <tr> <td>15:20</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:35</td> <td>Building Teaching Skill: The Importance of Practice </td> </tr>
+      <tr> <td>14:00</td> <td>Welcome Back </td> </tr>
+      <tr> <td>14:15</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td>15:20</td> <td>Break </td> </tr>
+      <tr> <td>15:35</td> <td>Teaching is a Skill </td> </tr>
       <tr> <td>16:45</td> <td>Wrap-Up and Homework for next meeting </td> </tr>
       <tr> <td>17:05</td> <td>Finish </td> </tr>
     </table>
@@ -225,22 +227,27 @@ for more information.
     <h3>Día 3 - Martes 18 de agosto</h3>
     <table class="table table-striped">
       <tr> <td>14:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>14:10</td> <td>Building Teaching Skill: Lesson Study </td> </tr>
-      <tr> <td>15:05</td> <td>Morning Coffee </td> </tr>
-      <tr> <td>15:20</td> <td>Building Teaching Skill: Live Coding </td> </tr>
-      <tr> <td>16:20</td> <td>Building Teaching Skill: Performance Revised </td> </tr>
-      <tr> <td>17:00</td> <td>Finish </td> </tr>
+      <tr> <td>14:10</td> <td>Live Coding is a Skill </td> </tr>
+      <tr> <td>15:20</td> <td>Break </td> </tr>
+      <tr> <td>15:30</td> <td>Preparing to Teach </td> </tr>
+      <tr> <td>16:20</td> <td>Break </td> </tr>
+      <tr> <td>16:30</td> <td>More Practice Live Coding </td> </tr>
+      <tr> <td>17:15</td> <td>Managing a Diverse Classroom </td> </tr>
+      <tr> <td>17:45</td> <td>Finish </td> </tr>
     </table>
   </div>
    <div class="col-md-6">
     <h3>Día 4 - Martes 25 de agosto</h3>
     <table class="table table-striped">
-      <tr> <td>14:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
-      <tr> <td>15:10</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>16:15</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>16:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
-      <tr> <td>17:00</td> <td>Afternoon Wrap-Up </td> </tr>
-      <tr> <td>17:45</td> <td>Finish </td> </tr>
+      <tr> <td>14:00</td> <td>Welcome Back </td> </tr>
+      <tr> <td>14:10</td> <td>Checkout Process </td> </tr>
+      <tr> <td>14:30</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>16:15</td> <td>Break </td> </tr>
+      <tr> <td>16:30</td> <td>Workshop Introductions </td> </tr>
+      <tr> <td>17:10</td> <td>Putting It Together </td> </tr>
+      <tr> <td>17:00</td> <td>Wrapping Up </td> </tr>
+      <tr> <td>17:15</td> <td>Post-training survey </td> </tr>
+      <tr> <td>17:30</td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
