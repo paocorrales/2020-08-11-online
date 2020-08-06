@@ -219,10 +219,10 @@ for more information.
       <tr> <td>14:15</td> <td>Motivation and Demotivation </td> </tr>
       <tr> <td>15:20</td> <td>Break </td> </tr>
       <tr> <td>15:35</td> <td>Teaching is a Skill </td> </tr>
-      <tr> <td>16:45</td> <td>Wrap-Up and Homework for next meeting </td> </tr>
-      <tr> <td>17:05</td> <td>Finish </td> </tr>
-      <tr> <td>17:30</td> <td> </td> </tr>
-      <tr> <td>17:30</td> <td> </td> </tr>
+      <tr> <td>16:45</td> <td>Break </td> </tr>
+      <tr> <td>16:55</td> <td>Wrap-Up and Homework for next meeting </td> </tr>
+      <tr> <td>17:15</td> <td>Finish </td> </tr>
+      <tr> <td>17:30</td> <td> </td> .</tr>
     </table>
   </div>
   <div class="col-md-6">
