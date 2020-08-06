@@ -221,6 +221,8 @@ for more information.
       <tr> <td>15:35</td> <td>Teaching is a Skill </td> </tr>
       <tr> <td>16:45</td> <td>Wrap-Up and Homework for next meeting </td> </tr>
       <tr> <td>17:05</td> <td>Finish </td> </tr>
+      <tr> <td>17:30</td> <td> </td> </tr>
+      <tr> <td>17:30</td> <td> </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
